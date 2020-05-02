@@ -1,7 +1,7 @@
 # Mini Youtube
 
-### get started:
+Implemented using ReactJS.
 
-npm install
-
-npm start
+Fill the search bar and using the Youtube API,
+videos will be recommended and could be played
+in the media player provided.
